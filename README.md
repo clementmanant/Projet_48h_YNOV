@@ -151,7 +151,7 @@ Ce projet implémente un système de gestion des trames CAN pour un système de 
 - **Description** : Contient le numéro de série du BMS.
 - **Structure** :  
   ```
-  Trame 0x300 : le PN 110-51185 + NN + le SN 25-01-1245
+  Trame 0x300 : le PN 110-53233 + NN + le SN 25-01-1245
   Octet 0-7 : PN, SN ou code produit (ex: [0x6E, 0xCF, 0xF1, 0x00, 0x19, 0x01, 0x04, 0xDD])
   ```
 #### Trame 0x301 - Version HW / SW
