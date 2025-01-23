@@ -232,3 +232,4 @@ Pour envoyer et recevoir des trames CAN, il est recommandé d'utiliser **PCAN-Vi
 - Surveiller l’activité sur le bus CAN et déboguer les données échangées.
 
 Vous pouvez également utiliser ce logiciel pour simuler ou tester l’envoi de trames à l’application BMS que vous développez.
+
