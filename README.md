@@ -37,6 +37,17 @@ Fournir une documentation basique expliquant :
     - Les fonctionnalités principales.
     
 ---
+## Exécution du projet
+
+Cloner le repo : ```git clone https://github.com/clementmanant/Projet_48h_YNOV.git```
+
+Il faut ensuite se rendre dans le dossier Projet_48h_YNOV dans un terminal.
+
+Avec Python3 d'installé, il faut ensuite charger la librairie TKinter si ce n'est pas déjà fait : ```pip3 install tk```
+
+Ensuite, pour lancer le projet : ```python3 BMS.py```
+
+---
 ## Gestion des trames CAN pour le BMS
 
 Ce projet implémente un système de gestion des trames CAN pour un système de gestion de batterie (BMS). Les différentes trames gèrent des données comme les tensions, les températures, les états des alarmes, et d'autres informations essentielles au fonctionnement du BMS.
